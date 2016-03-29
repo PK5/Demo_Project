@@ -44,6 +44,9 @@
                   
                     <asp:Label ID="lblmsg" runat="server" Height="25px" Width="758px"></asp:Label>
                 </div>
+                <div>                  
+                     Change1 in Demo Project1
+                </div>
             </asp:Panel>
         </asp:Panel>
     </form>
