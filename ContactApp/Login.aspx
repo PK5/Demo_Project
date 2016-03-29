@@ -57,6 +57,9 @@
                 <div>                  
                     First Changes in demo project 2
                 </div>
+                 <div>                  
+                    Second Changes in demo project 2
+                </div>
             </asp:Panel>
         </asp:Panel>
     </form>
