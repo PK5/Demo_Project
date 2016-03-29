@@ -51,6 +51,9 @@
                 <div>                  
                     change3 in master branch
                 </div>
+                <div>                  
+                    change4 in master branch
+                </div>
             </asp:Panel>
         </asp:Panel>
     </form>
