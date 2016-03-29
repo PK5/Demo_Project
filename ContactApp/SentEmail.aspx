@@ -42,6 +42,9 @@
             <div>
                 <asp:Button ID="btnsend" runat="server" Text="Send" Height="40px" Width="180px" Style="margin-right: 176px" OnClick="ClickMail" />
             </div>
+            <div>
+                Change1 in Demo Project
+            </div>
         </asp:Panel>
     </form>
 </body>
